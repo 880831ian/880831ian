@@ -2,10 +2,8 @@
 
 I am from Taiwan 🇹🇼 
 
-I am learning containerization tools such as [Docker](https://github.com/docker) and [Kubernetes](https://github.com/kubernetes/kubernetes). 💻
+I'm a junior site reliability engineer and I love building services with Kubernetes. 💻
 
-There are also CI/CD tools such as [Ansible](https://github.com/ansible/ansible) and [Jenkins](https://github.com/jenkinsci/jenkins)
+My favorite tools lately are [Terraform](https://github.com/hashicorp/terraform), [Helm](https://github.com/helm/helm) and Kustomization and [Okteto](https://github.com/okteto/okteto). They really work great XD
 
-I will also write some [PHP](https://github.com/php),  [Laravel](https://github.com/laravel/laravel), [Golang](https://github.com/Golang) and [NodeJS](https://github.com/nodejs). I will put some of my own programs on [GitHub](https://github.com/github). 
-
-I am writing a [blog](https://pin-yi.me) myself. Welcome to discuss and learn together. 😍
+I will also record the learning process on the [blog](https://blog.pin-yi.me). Welcome to discuss and learn together. 😍
