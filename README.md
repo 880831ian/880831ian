@@ -1,9 +1,6 @@
 <h1>Hi 👋, I'm Pin-Yi</h1>
 
 <p>I am from Taiwan 🇹🇼</p>
-<p>I'm a junior site reliability engineer</p>
-<p>My favorite tools lately are [Terraform](https://github.com/hashicorp/terraform), [Helm](https://github.com/helm/helm) and Kustomization and [Okteto](https://github.com/okteto/okteto). They really work great XD</p>
-<p>I will also record the learning process on the [blog](https://pin-yi.me/blog). Welcome to discuss and learn together. 😍 </p>
 
 <br>
 
