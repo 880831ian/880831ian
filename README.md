@@ -15,6 +15,14 @@ Feel free to visit my blog and connect — d(`･∀･)b
 
 <br>
 
+This is my resume link
+
+Chinese: [https://pin-yi.me/about/resume-tw.pdf](https://pin-yi.me/about/resume-tw.pdf)
+
+English：[https://pin-yi.me/about/resume-en.pdf](https://pin-yi.me/about/resume-en.pdf)
+
+<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=880831ian&show_icons=true&locale=en" alt="880831ian" /></p>
 <p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=880831ian&date_format=%5BY%20%5DM%20j" alt="880831ian" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=880831ian" alt="880831ian" /></a></p>
