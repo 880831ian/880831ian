@@ -9,7 +9,7 @@ I help the company implement **disaster recovery (GCP > AWS)**, and I am in char
 
 In addition, I am experienced with **Google Cloud Platform (GCP)** services and enjoy managing large-scale cloud resources using **Terraform + Terragrunt** (GCP Modules: 12, AWS Modules: 22). I also work with **Grafana**, **Prometheus**, **EFK**, and other log collection and monitoring tools to ensure service stability and observability. I assist the R&D team in building **CICD deployment pipelines** as well.
 
-In my free time, I like reading technical documentation, writing blogs, and joining offline tech communities. I have attended **Google Next 2025**, **DevOpsDay 2022|2023|2024**, **Cloud Summit 2024|2025**, and **AWS Summit 2025**. Through these events, I hope to learn more and connect with other tech enthusiasts.
+In my free time, I like reading technical documentation, writing blogs, and joining offline tech communities. I have attended **Google Next 2025**, **AWS Summit 2025**, **DevOpsDay 2022|2023|2024**, **Cloud Summit 2024|2025**, **Kube Summit 2025**, **AWS Community Day 2025** . Through these events, I hope to learn more and connect with other tech enthusiasts.
 
 Feel free to visit my blog and connect — d(`･∀･)b
 
